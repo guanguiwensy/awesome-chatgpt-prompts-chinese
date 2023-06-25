@@ -2,91 +2,87 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Steamship](https://raw.githubusercontent.com/steamship-core/python-client/main/badge.svg)](https://www.steamship.com/build?utm_source=github&utm_medium=badge&utm_campaign=awesome_gpt_prompts&utm_id=awesome_gpt_prompts)
 
-Welcome to the "Awesome ChatGPT Prompts" repository! This is a collection of prompt examples to be used with the ChatGPT model.
+欢迎来到 "Awesome ChatGPT Prompts in Chinese"! 该项目来自于Awesome ChatGPT Prompts，目的是收集chatgpt提问方式，服务于中文用户。
 
-The [ChatGPT](https://chat.openai.com/chat) model is a large language model trained by [OpenAI](https://openai.com) that is capable of generating human-like text. By providing it with a prompt, it can generate responses that continue the conversation or expand on the given prompt.
+[ChatGPT](https://chat.openai.com/chat)模型是由[OpenAI](https://openai.com)训练的大型语言模型，能够生成类似人类的文本。通过为其提供提示，它可以生成继续对话或扩展给定提示的响应。
 
-In this repository, you will find a variety of prompts that can be used with ChatGPT. We encourage you to [add your own prompts](https://github.com/f/awesome-chatgpt-prompts/edit/main/README.md) to the list, and to use ChatGPT to generate new prompts as well.
+在此存储库中，您将找到可与 ChatGPT 一起使用的各种提示，同时我们也鼓励大家将自己的提示[添加到列表中](https://github.com/f/awesome-chatgpt-prompts/edit/main/README.md) 并使用 ChatGPT 生成新提示。
 
-To get started, simply clone this repository and use the prompts in the README.md file as input for ChatGPT. You can also use the prompts in this file as inspiration for creating your own.
+要开始使用，只需克隆此存储库并使用 README.md 文件中的提示作为 ChatGPT 的输入。您还可以使用此文件中的提示作为创建自己的提示的灵感。
 
-We hope you find these prompts useful and have fun using ChatGPT!
+我们希望您发现这些提示有用，并使用 ChatGPT 玩得开心！
 
-**[View on GitHub](https://github.com/f/awesome-chatgpt-prompts)**
+**下载ChatGPT桌面应用程序：**: **[macOS](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64.dmg)** / **[Windows](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64_en-US.msi)** / **[Linux](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/chat-gpt_0.10.1_amd64.deb)**
 
-**[View on Hugging Face](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts/)**
+> ℹ️ **NOTE:** 注意：有时，某些提示可能无法按预期工作，或者可能被 AI 拒绝。请重试，启动新线程，或注销并重新登录。如果这些解决方案不起作用，请尝试使用您自己的句子重写提示，同时保持说明相同。
 
-**Download ChatGPT Desktop App**: **[macOS](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64.dmg)** / **[Windows](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64_en-US.msi)** / **[Linux](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/chat-gpt_0.10.1_amd64.deb)**
+### 想要编写有效的提问？
 
-> ℹ️ **NOTE:** Sometimes, some of the prompts may not be working as you expected or may be rejected by the AI. Please try again, start a new thread, or log out and log back in. If these solutions do not work, please try rewriting the prompt using your own sentences while keeping the instructions same.
+原作者还写了一本免费的电子书，名字叫: A Guide to Crafting Clear and Effective Prompts，中文名：ChatGPT 提示的艺术：如何清晰准确的提问"**.
 
-### Want to Write Effective Prompts?
+📖 **[电子书链接](https://fka.gumroad.com/l/art-of-chatgpt-prompting)**
 
-I've authored a free e-book called **"The Art of ChatGPT Prompting: A Guide to Crafting Clear and Effective Prompts"**.
+### 想要部署自己的提示应用？
 
-📖 **[Read the free e-book](https://fka.gumroad.com/l/art-of-chatgpt-prompting)**
+在[Steamship](https://www.steamship.com/build?utm_source=github&utm_medium=explainer&utm_campaign=awesome_gpt_prompts&utm_id=awesome_gpt_prompts) 上，人们构建了一个框架来托管和共享您的 GPT 应用程序。他们通过让您免费（每天最多 500 次通话）访问最新的 GPT 模型来赞助此存储库。
 
-### Want to deploy your own Prompt App?
-
-The folks at [Steamship](https://www.steamship.com/build?utm_source=github&utm_medium=explainer&utm_campaign=awesome_gpt_prompts&utm_id=awesome_gpt_prompts) built a framework to host and share your GPT apps. They're sponsoring this repo by giving you free (up to 500 calls per day) access to the latest GPT models.  
-
-👷‍♂️ **[Build your own GPT Prompt App](https://www.steamship.com/build?utm_source=github&utm_medium=explainer&utm_campaign=awesome_gpt_prompts&utm_id=awesome_gpt_prompts)**
+👷‍♂️ **[构建您自己的 GPT 提示应用](https://www.steamship.com/build?utm_source=github&utm_medium=explainer&utm_campaign=awesome_gpt_prompts&utm_id=awesome_gpt_prompts)**
 
 ### Want to Learn How to Make Money using ChatGPT Prompts?
 
-I've authored an e-book called **"How to Make Money with ChatGPT: Strategies, Tips, and Tactics"**.
+原作者还写了一本电子书，名字叫: **"How to Make Money with ChatGPT: Strategies, Tips, and Tactics"，中文名： ChatGPT 赚钱：战略、技巧和战术**.
 
-📖 **[Buy the e-book](https://fka.gumroad.com/l/how-to-make-money-with-chatgpt)**
+📖 **[点击购买电子书](https://fka.gumroad.com/l/how-to-make-money-with-chatgpt)**
 
 ---
 
-## Other Prompting Resources
+## 其他提问方法资源
 
 ### Want to Learn How to write image prompts for Midjourney AI?
 
-I've authored an e-book called **"The Art of Midjourney AI: A Guide to Creating Images from Text"**.
+原作者的另一本电子书，名字叫:**"The Art of Midjourney AI: A Guide to Creating Images from Text"，中文名：从文本创建图像的指南**.
 
-📖 **[Read the e-book](https://fka.gumroad.com/l/the-art-of-midjourney-ai-guide-to-creating-images-from-text)**
+📖 **[点击阅读电子书](https://fka.gumroad.com/l/the-art-of-midjourney-ai-guide-to-creating-images-from-text)**
 
 ---
 
 ### Using ChatGPT Desktop App
 
-The _unofficial_ ChatGPT desktop application provides a convenient way to access and use the prompts in this repository. With the app, you can easily import all the prompts and use them with slash commands, such as `/linux_terminal`. This feature eliminates the need to manually copy and paste prompts each time you want to use them.
+非官方的 ChatGPT 桌面应用程序提供了一种访问和使用此存储库中的提示的便捷方式。使用该应用程序，您可以轻松导入所有提示并将其与斜杠命令一起使用，例如 `/linux_terminal`。此功能消除了每次要使用提示时手动复制和粘贴提示的需要。
 
-> **Desktop App is an unofficial [open source project by @lencx](https://github.com/lencx/ChatGPT). It's a simple wrapper for ChatGPT web interface with powerful extras.**
+> **桌面应用程序是[@lencx的非官方开源项目](https://github.com/lencx/ChatGPT)。它是ChatGPT网络界面的简单包装器，具有强大的附加功能。**
 
 <img width="400" alt="Screenshot 2022-12-19 at 19 13 41" src="https://user-images.githubusercontent.com/196477/208471439-877c2bcf-93ec-4ad9-9cb0-7e4ed7b1756a.png">
 
 ---
 
-### Create your own prompt using AI
+### 使用 AI 创建自己的提问词
 
-[Merve Noyan](https://huggingface.co/merve) created an exceptional [ChatGPT Prompt Generator App](https://huggingface.co/spaces/merve/ChatGPT-prompt-generator), allowing users to generate prompts tailored to their desired persona. The app uses this repository as its training dataset.
+[Merve Noyan](https://huggingface.co/merve)创建了[ChatGPT提问词生成器APP](https://huggingface.co/spaces/merve/ChatGPT-prompt-generator)，允许用户生成针对他们所需角色量身定制的提示。应用使用此存储库作为其训练数据集。
   
 ---
 
-### Using prompts.chat
+### 使用prompts.chat
 
-[prompts.chat](https://prompts.chat) is designed to provide an enhanced UX when working with prompts. With just a few clicks, you can easily edit and copy the prompts on the site to fit your specific needs and preferences. The copy button will copy the prompt exactly as you have edited it.
+[prompts.chat](https://prompts.chat)旨在在使用提示时提供增强的 UX。只需单击几下，您就可以轻松编辑和复制网站上的提示，以满足您的特定需求和偏好。复制按钮将完全按照您编辑的方式复制提示。
 
 <video autoplay loop muted playsinline src="https://user-images.githubusercontent.com/196477/207992596-6846398c-9ee7-4d7b-8fbe-b7c9e6daad23.mov"></video>
 
 ---
 
-# Prompts
+# 提问词
 
-## Act as a Linux Terminal
+## 扮演Linux终端
 Contributed by: [@f](https://github.com/f)
 Reference: https://www.engraved.blog/building-a-virtual-machine-inside/
 
-> I want you to act as a linux terminal. I will type commands and you will reply with what the terminal should show. I want you to only reply with the terminal output inside one unique code block, and nothing else. do not write explanations. do not type commands unless I instruct you to do so. When I need to tell you something in English, I will do so by putting text inside curly brackets {like this}. My first command is pwd
+> 我希望你充当Linux终端。我将键入命令，您将回复终端应显示的内容。我希望你只回复一个唯一代码块中的终端输出，没有别的。不要写解释。除非我指示你这样做，否则不要键入命令。当我需要用英语告诉你一些事情时，我会把文本放在大括号里{like this}. 。我的第一个命令是 pwd
 
-## Act as an English Translator and Improver
+## 扮演汉语翻译或语法老师
 Contributed by: [@f](https://github.com/f)
 **Alternative to**: Grammarly, Google Translate
 
-> I want you to act as an English translator, spelling corrector and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper level English words and sentences. Keep the meaning same, but make them more literary. I want you to only reply the correction, the improvements and nothing else, do not write explanations. My first sentence is "istanbulu cok seviyom burada olmak cok guzel"
+> 我希望你充当汉语翻译，拼写校正和改进者。我会用任何语言和你说话，你需要检测语言的种类，并把他翻译为汉语，并对我的文本进行更正和改进。我希望你用更漂亮、更优雅的高级英语单词和句子代替我简化的单词和句子。但要保持语义相同，并更具文学性。我希望你只回复更正，改进后的句子不包括其他内容，比如不要写解释。我的第一句话是"istanbulu cok seviyom burada olmak cok guzel"
 
 ## Act as `position` Interviewer
 Contributed by: [@f](https://github.com/f) & [@iltekin](https://github.com/iltekin)
